@@ -1,0 +1,12 @@
+{
+  "name": "eod-operator",
+  "compatibility_date": "2025-11-27",
+  "assets": {
+    "directory": "./",
+    "html_metadata": {
+      "index.html": {
+        "path": "/"
+      }
+    }
+  }
+}
